@@ -1,6 +1,6 @@
 # Projeto 1º Bimestre de POO II
 
-## Data limite: 22/10
+## Data limite: 21/10
 
 ## O projeto consiste em:
 
