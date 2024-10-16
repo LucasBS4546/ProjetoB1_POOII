@@ -18,7 +18,8 @@
 
 <br>
      
-* Jogo do Matheus Endlich *(Em desenvolvimento)*
+* Jogo do Matheus Endlich *(FINALIZADO)*
+  * https://github.com/MatheusIngles/Trabalho-PO2
   * Documentação do antes e depois *(Em desenvolvimento)*
     
 <br>
