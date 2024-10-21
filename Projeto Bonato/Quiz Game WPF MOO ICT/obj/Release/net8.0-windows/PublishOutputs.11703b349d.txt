@@ -1,0 +1,7 @@
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\publish\sounds\errou.wav
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\publish\sounds\venceu.wav
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\publish\Quiz Game WPF MOO ICT.exe
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\publish\Quiz Game WPF MOO ICT.dll
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\publish\Quiz Game WPF MOO ICT.deps.json
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\publish\Quiz Game WPF MOO ICT.runtimeconfig.json
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\publish\Quiz Game WPF MOO ICT.pdb

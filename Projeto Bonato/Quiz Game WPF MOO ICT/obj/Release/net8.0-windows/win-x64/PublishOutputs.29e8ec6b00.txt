@@ -1,0 +1,9 @@
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\win-x64\publish\Quiz Game WPF MOO ICT.pdb
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\win-x64\publish\sounds\errou.wav
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\win-x64\publish\sounds\venceu.wav
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\win-x64\publish\PenImc_cor3.dll
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\win-x64\publish\PresentationNative_cor3.dll
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\win-x64\publish\vcruntime140_cor3.dll
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\win-x64\publish\wpfgfx_cor3.dll
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Release\net8.0-windows\win-x64\publish\Quiz Game WPF MOO ICT.exe

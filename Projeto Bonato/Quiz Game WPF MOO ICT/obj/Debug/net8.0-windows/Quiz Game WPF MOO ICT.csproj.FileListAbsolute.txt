@@ -1,0 +1,30 @@
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\GameOver.g.cs
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Introducao.g.cs
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Venceu.g.cs
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT_MarkupCompile.cache
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT_MarkupCompile.lref
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Debug\net8.0-windows\Quiz Game WPF MOO ICT.exe
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Debug\net8.0-windows\Quiz Game WPF MOO ICT.deps.json
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Debug\net8.0-windows\Quiz Game WPF MOO ICT.runtimeconfig.json
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Debug\net8.0-windows\Quiz Game WPF MOO ICT.dll
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Debug\net8.0-windows\Quiz Game WPF MOO ICT.pdb
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\GameOver.baml
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Introducao.baml
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Venceu.baml
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT.g.resources
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz_Game_WPF_MOO_ICT.Properties.Resources.resources
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT.csproj.GenerateResource.cache
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT.AssemblyInfoInputs.cache
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT.AssemblyInfo.cs
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT.dll
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\refint\Quiz Game WPF MOO ICT.dll
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT.pdb
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\Quiz Game WPF MOO ICT.genruntimeconfig.cache
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\obj\Debug\net8.0-windows\ref\Quiz Game WPF MOO ICT.dll
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Debug\net8.0-windows\sounds\errou.wav
+C:\Users\Computer\source\repos\Quiz Game WPF MOO ICT\bin\Debug\net8.0-windows\sounds\venceu.wav
