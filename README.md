@@ -8,21 +8,21 @@
 
 <br>
 
-* Jogo do Guilherme Ferreira *(Em desenvolvimento)*
+* Jogo do Guilherme Ferreira **(Finalizado)**
   * Documentação do antes e depois *(Em desenvolvimento)*
 
 <br>
 
-* Jogo do Lucas Bonato *(Em desenvolvimento)*
-  * Documentação do antes e depois *(Em desenvolvimento)*
+* Jogo do Lucas Bonato **(Finalizado)**
+  * Documentação do antes e depois **(Finalizado)**
 
 <br>
      
-* Jogo do Matheus Endlich *(FINALIZADO)*
+* Jogo do Matheus Endlich **(Finalizado)**
   * https://github.com/MatheusIngles/Trabalho-PO2
-  * Documentação do antes e depois *(Em desenvolvimento)*
+  * Documentação do antes e depois **(Finalizado)**
     
 <br>
 
-* Jogo do Rafael Bassul *(Em desenvolvimento)*
-  * Documentação do antes e depois *(Em desenvolvimento)*
+* Jogo do Rafael Bassul **(Finalizado)**
+  * Documentação do antes e depois **(Finalizado)**
