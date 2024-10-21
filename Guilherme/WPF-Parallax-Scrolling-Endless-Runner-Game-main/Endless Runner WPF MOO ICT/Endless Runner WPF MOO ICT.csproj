@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>Endless_Runner_WPF_MOO_ICT</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <StartupObject>Endless_Runner_WPF_MOO_ICT.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\background.gif" />
+    <None Remove="images\newRunner_01.gif" />
+    <None Remove="images\newRunner_02.gif" />
+    <None Remove="images\newRunner_03.gif" />
+    <None Remove="images\newRunner_04.gif" />
+    <None Remove="images\newRunner_05.gif" />
+    <None Remove="images\newRunner_06.gif" />
+    <None Remove="images\newRunner_07.gif" />
+    <None Remove="images\newRunner_08.gif" />
+    <None Remove="images\newRunner_09.gif" />
+    <None Remove="images\newRunner_10.gif" />
+    <None Remove="images\newRunner_11.gif" />
+    <None Remove="images\newRunner_12.gif" />
+    <None Remove="images\newRunner_13.gif" />
+    <None Remove="images\newRunner_14.gif" />
+    <None Remove="images\newRunner_15.gif" />
+    <None Remove="images\newRunner_16.gif" />
+    <None Remove="images\newRunner_17.gif" />
+    <None Remove="images\newRunner_18.gif" />
+    <None Remove="images\obstacle.png" />
+    <None Remove="images\obstacle2.png" />
+    <None Remove="music\music.mp3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\background.gif" />
+    <Resource Include="images\newRunner_01.gif" />
+    <Resource Include="images\newRunner_02.gif" />
+    <Resource Include="images\newRunner_03.gif" />
+    <Resource Include="images\newRunner_04.gif" />
+    <Resource Include="images\newRunner_05.gif" />
+    <Resource Include="images\newRunner_06.gif" />
+    <Resource Include="images\newRunner_07.gif" />
+    <Resource Include="images\newRunner_08.gif" />
+    <Resource Include="images\newRunner_09.gif" />
+    <Resource Include="images\newRunner_10.gif" />
+    <Resource Include="images\newRunner_11.gif" />
+    <Resource Include="images\newRunner_12.gif" />
+    <Resource Include="images\obstacle.png" />
+    <Resource Include="images\obstacle2.png" />
+    <Resource Include="music\music.mp3" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,103 @@
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.exe
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.deps.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.runtimeconfig.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\App.g.cs
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT_MarkupCompile.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT_MarkupCompile.lref
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.g.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless_Runner_WPF_MOO_ICT.Properties.Resources.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.csproj.GenerateResource.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.AssemblyInfoInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.AssemblyInfo.cs
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\refint\Endless Runner WPF MOO ICT.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.genruntimeconfig.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\14\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\ref\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.exe
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.deps.json
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.runtimeconfig.json
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.pdb
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT_MarkupCompile.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT_MarkupCompile.lref
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.g.resources
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless_Runner_WPF_MOO_ICT.Properties.Resources.resources
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.csproj.GenerateResource.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.AssemblyInfoInputs.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.AssemblyInfo.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\refint\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.pdb
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.genruntimeconfig.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\ref\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\StartWindow.baml
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\StartWindow.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.exe
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.deps.json
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.runtimeconfig.json
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.pdb
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\StartWindow.baml
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\StartWindow.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT_MarkupCompile.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT_MarkupCompile.lref
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.g.resources
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless_Runner_WPF_MOO_ICT.Properties.Resources.resources
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.csproj.GenerateResource.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.AssemblyInfoInputs.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.AssemblyInfo.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\refint\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.pdb
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.genruntimeconfig.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv2\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\ref\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.exe
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.deps.json
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.runtimeconfig.json
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\Endless Runner WPF MOO ICT.pdb
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\StartWindow.baml
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\StartWindow.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT_MarkupCompile.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT_MarkupCompile.lref
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.g.resources
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless_Runner_WPF_MOO_ICT.Properties.Resources.resources
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.csproj.GenerateResource.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.AssemblyInfoInputs.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.AssemblyInfo.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\refint\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.pdb
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT.genruntimeconfig.cache
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\ref\Endless Runner WPF MOO ICT.dll
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Endless Runner WPF MOO ICT_Content.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Fases.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Fases.baml
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Ajuda.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-mainv3\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Ajuda.baml
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Ajuda.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Fases.g.cs
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Ajuda.baml
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Fases.baml
