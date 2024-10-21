@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{0AE19F8C-92A6-40F4-88EA-04CE0A103D75}|Endless Runner WPF MOO ICT.csproj|solutionrelative:fases.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE19F8C-92A6-40F4-88EA-04CE0A103D75}|Endless Runner WPF MOO ICT.csproj|c:\\users\\guife\\onedrive\\\u00E1rea de trabalho\\wpf-parallax-scrolling-endless-runner-game-main\\endless runner wpf moo ict\\ajuda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0AE19F8C-92A6-40F4-88EA-04CE0A103D75}|Endless Runner WPF MOO ICT.csproj|solutionrelative:ajuda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0AE19F8C-92A6-40F4-88EA-04CE0A103D75}|Endless Runner WPF MOO ICT.csproj|c:\\users\\guife\\onedrive\\\u00E1rea de trabalho\\wpf-parallax-scrolling-endless-runner-game-main\\endless runner wpf moo ict\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AE19F8C-92A6-40F4-88EA-04CE0A103D75}|Endless Runner WPF MOO ICT.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE19F8C-92A6-40F4-88EA-04CE0A103D75}|Endless Runner WPF MOO ICT.csproj|c:\\users\\guife\\onedrive\\\u00E1rea de trabalho\\wpf-parallax-scrolling-endless-runner-game-main\\endless runner wpf moo ict\\ajuda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0AE19F8C-92A6-40F4-88EA-04CE0A103D75}|Endless Runner WPF MOO ICT.csproj|solutionrelative:ajuda.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AE19F8C-92A6-40F4-88EA-04CE0A103D75}|Endless Runner WPF MOO ICT.csproj|c:\\users\\guife\\onedrive\\\u00E1rea de trabalho\\wpf-parallax-scrolling-endless-runner-game-main\\endless runner wpf moo ict\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -54,15 +54,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Ajuda.xaml",
               "DocumentMoniker": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\Ajuda.xaml",
               "RelativeDocumentMoniker": "Ajuda.xaml",
               "ToolTip": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\Ajuda.xaml",
               "RelativeToolTip": "Ajuda.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-20T18:43:31.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T18:43:31.588Z"
             },
             {
               "$type": "Document",
@@ -70,9 +69,9 @@
               "Title": "Fases.xaml.cs",
               "DocumentMoniker": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\Fases.xaml.cs",
               "RelativeDocumentMoniker": "Fases.xaml.cs",
-              "ToolTip": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\Fases.xaml.cs",
-              "RelativeToolTip": "Fases.xaml.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAowMIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\Fases.xaml.cs*",
+              "RelativeToolTip": "Fases.xaml.cs*",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAcwK0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T02:14:42.668Z",
               "EditorCaption": ""
@@ -86,8 +85,7 @@
               "ToolTip": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\Fases.xaml",
               "RelativeToolTip": "Fases.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-20T02:12:32.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T02:12:32.394Z"
             },
             {
               "$type": "Document",
@@ -98,8 +96,7 @@
               "ToolTip": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T22:41:15.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T22:41:15.639Z"
             },
             {
               "$type": "Document",
@@ -111,8 +108,7 @@
               "RelativeToolTip": "StartWindow.xaml.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAnwCoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:37:42.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T22:37:42.482Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "ToolTip": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\StartWindow.xaml",
               "RelativeToolTip": "StartWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T22:34:23.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T22:34:23.276Z"
             },
             {
               "$type": "Document",
@@ -147,18 +142,17 @@
               "ToolTip": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-25T23:03:53.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T23:03:53.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\guife\\OneDrive\\\u00C1rea de Trabalho\\WPF-Parallax-Scrolling-Endless-Runner-Game-main\\Endless Runner WPF MOO ICT\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABABAAAAAAAAAAAAABMBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T22:56:49.572Z",
               "EditorCaption": ""

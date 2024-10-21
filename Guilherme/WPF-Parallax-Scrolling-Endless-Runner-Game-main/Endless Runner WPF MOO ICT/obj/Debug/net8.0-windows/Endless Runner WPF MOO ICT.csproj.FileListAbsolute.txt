@@ -101,3 +101,4 @@ C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-
 C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Fases.g.cs
 C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Ajuda.baml
 C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\obj\Debug\net8.0-windows\Fases.baml
+C:\Users\guife\OneDrive\Área de Trabalho\WPF-Parallax-Scrolling-Endless-Runner-Game-main\Endless Runner WPF MOO ICT\bin\Debug\net8.0-windows\music\music.wav

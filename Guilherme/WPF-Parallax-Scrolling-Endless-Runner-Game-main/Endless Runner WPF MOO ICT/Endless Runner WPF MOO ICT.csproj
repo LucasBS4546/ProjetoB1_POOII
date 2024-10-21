@@ -51,7 +51,17 @@
     <Resource Include="images\newRunner_12.gif" />
     <Resource Include="images\obstacle.png" />
     <Resource Include="images\obstacle2.png" />
-    <Resource Include="music\music.mp3" />
+    <Resource Include="music\music.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Generator></Generator>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="music\music.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Generator>Nenhum</Generator>
+    </None>
   </ItemGroup>
 
 </Project>

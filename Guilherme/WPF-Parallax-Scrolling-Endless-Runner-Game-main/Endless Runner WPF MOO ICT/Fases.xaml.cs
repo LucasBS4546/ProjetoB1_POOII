@@ -37,6 +37,8 @@ namespace Endless_Runner_WPF_MOO_ICT
 
         Random rnd = new Random();
 
+        MediaPlayer music = new MediaPlayer();
+
         bool gameOver;
         bool gameWon; 
 
@@ -167,6 +169,7 @@ namespace Endless_Runner_WPF_MOO_ICT
             {
                 gameOver = true;
                 gameTimer.Stop();
+                music.Stop();
             }
 
             if (gameOver)
@@ -284,6 +287,11 @@ namespace Endless_Runner_WPF_MOO_ICT
 
         private void StartGame()
         {
+            music.Open(new Uri("music/music.wav", UriKind.Relative));
+
+            music.Volume = 1;
+            music.Play();
+
             Canvas.SetLeft(backgroundF, 0);
             Canvas.SetLeft(background2F, 1262);
 

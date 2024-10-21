@@ -21,7 +21,7 @@ namespace Endless_Runner_WPF_MOO_ICT
     {
         DispatcherTimer gameTimer = new DispatcherTimer();
 
-        //MediaPlayer music = new MediaPlayer();
+        MediaPlayer music = new MediaPlayer();
         
         Rect playerHitBox;
         Rect groundHitBox;
@@ -43,12 +43,15 @@ namespace Endless_Runner_WPF_MOO_ICT
         ImageBrush backgroundSprite = new ImageBrush();
         ImageBrush obstacleSprite = new ImageBrush();
 
+        
         int score = 0;
 
         string proxObstaculo = "normal";
 
+        
         public MainWindow()
         {
+
             InitializeComponent();
 
             MyCanvas.Focus();
@@ -157,6 +160,7 @@ namespace Endless_Runner_WPF_MOO_ICT
             {
                 gameOver = true;
                 gameTimer.Stop();
+                music.Stop();                
             }
 
             if (gameOver)
@@ -170,6 +174,7 @@ namespace Endless_Runner_WPF_MOO_ICT
                 player.Height = 99;
                 player.Width = 67;
                 scoreText.Content = $"Score: {score} Pressione Enter para jogar novamente!!";
+                                
             }
             else
             {
@@ -201,6 +206,7 @@ namespace Endless_Runner_WPF_MOO_ICT
                     pausado = false;
                     gameTimer.Start();
                     scoreText.Content = $"Score: {score}";
+                    
                 }
                 else if (gameOver) 
                 {
@@ -241,9 +247,10 @@ namespace Endless_Runner_WPF_MOO_ICT
         private void StartGame()
         {
 
-            //music.Open(new Uri("pack://application:,,,/music/music.mp3"));
-            //music.Volume = 0.5; // Ajusta o volume (0.0 a 1.0)
-            //music.Play();
+            music.Open(new Uri("music/music.wav", UriKind.Relative));
+            
+            music.Volume = 1;
+            music.Play();
 
             Canvas.SetLeft(background, 0);
             Canvas.SetLeft(background2, 1262);
