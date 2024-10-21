@@ -5,6 +5,8 @@
 ## O projeto consiste em:
 
 * UVV_Fintech **(Finalizada)**
+  * Diagrama de classes **(Finalizado)**
+  * Diagrama de caso de uso **(Finalizado)**
 
 <br>
 
