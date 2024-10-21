@@ -1,0 +1,101 @@
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.exe
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.deps.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.runtimeconfig.json
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.Form1.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.Properties.Resources.resources
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.csproj.GenerateResource.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.AssemblyInfoInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.AssemblyInfo.cs
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\refint\quizGame.dll
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.pdb
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.genruntimeconfig.cache
+D:\Desenvolvimento\!codigos\CS\Presencial\!atividades\12\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\ref\quizGame.dll
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.exe
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.deps.json
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.runtimeconfig.json
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.dll
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.pdb
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.Form1.resources
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.Properties.Resources.resources
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.csproj.GenerateResource.cache
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.AssemblyInfoInputs.cache
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.AssemblyInfo.cs
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.dll
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\refint\quizGame.dll
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.pdb
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.genruntimeconfig.cache
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\ref\quizGame.dll
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\MusicaTema.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.Form2.resources
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\1.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\pergunta.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\certa.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\10.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\11.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\2.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\3.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\4.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\5.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\6.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\7.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\8.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\9.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\parabens.wav
+C:\Users\Rafael Bassul\Desktop\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\tchau.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.exe
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\1.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\10.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\11.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\2.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\3.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\4.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\5.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\6.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\7.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\8.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\9.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\certa.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\MusicaTema.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\parabens.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\pergunta.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\tchau.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.deps.json
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.runtimeconfig.json
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.dll
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\quizGame.pdb
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.Form1.resources
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.Form2.resources
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.Properties.Resources.resources
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.csproj.GenerateResource.cache
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.AssemblyInfoInputs.cache
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.AssemblyInfo.cs
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.dll
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\refint\quizGame.dll
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.pdb
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.genruntimeconfig.cache
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\ref\quizGame.dll
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\errou.wav
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\tomate.jpg
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\atomo.png
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\cachorro.jpg
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\dompedro.jpeg
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\esporte.jpg
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\estoicismo.jpg
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\jupter.jpg
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\luz.jpeg
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\ptero.jpg
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\questions.png
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\romance.jpg
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\rosalem.png
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\bin\Debug\net8.0-windows\Resources\show.png
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.Form3.resources
+C:\Users\Rafael Bassul\Desktop\Trabalho Rafael\Quiz-Game-Tutorial-Windows-Form-main\quizGame\obj\Debug\net8.0-windows\quizGame.Form4.resources
