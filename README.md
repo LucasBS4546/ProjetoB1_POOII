@@ -11,7 +11,7 @@
 <br>
 
 * Jogo do Guilherme Ferreira **(Finalizado)**
-  * Documentação do antes e depois *(Em desenvolvimento)*
+  * Documentação do antes e depois **(Finalizado)**
 
 <br>
 
